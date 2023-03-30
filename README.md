@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/129353206/228724181-5ae2ccf0-c8cf-4256-8093-36a2eabcad74.jpg" width="500px" />
+<img src="https://user-images.githubusercontent.com/128872252/228934452-4b5e24c3-d509-4a87-9a9a-69ad2ae1a398.png" width="1000px" />
+    
 </div>
 
 # Plataforma NVW GAMES 🎮
