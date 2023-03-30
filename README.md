@@ -52,6 +52,16 @@ Somos uma plataforma que apresenta uma variedade de jogos online e está a apena
 
 ## Autores
 
+<img src="https://user-images.githubusercontent.com/129353206/228728912-12c8b403-fde1-4a06-bff2-dec19c21da83.jpg" width="150px" /> - Wellington Kochenborger
+
+<img src="https://user-images.githubusercontent.com/129353206/228728970-060bbe6c-a34b-4ece-85aa-8afec051b1e7.jpg" width="150px" /> - Vitor Franzini
+
+
+
+
+
+
+
 
 
 
