@@ -10,16 +10,20 @@
 
 ## Descrição 📝
 
-
-Somos uma plataforma que apresenta uma variedade de jogos online e está a apenas 1 ano no mercado. Por conta do seu crescimento repentino a empresa começou a sofrer instabilidade e lentidão, pois teve um aumento significativo de usuários, fazendo com que gerasse uma grande insatisfação e demanda de tempo, já que nossos desenvolvedores tinham que fazer tudo manualmente.
-
-O crescimento de usuários afetou a estabilidade do sistema, fazendo com que nossos desenvolvedores tivessem que implementar uma solução ideal que trouxesse velocidade e melhor qualidade para os usuários. Portanto, foi decidido a implementação do DevOps, o que fez com que o sistema entregasse uma melhor velocidade e estabilidade para o cliente, de forma rápida e contínua. 
+Somos uma plataforma que apresenta uma variedade de jogos online e está a apenas 1 ano no mercado.
 
 
 
-## Funcionalidades 
 
+## :hammer: Funcionalidades do projeto
 
+```
+
+- `Funcionalidade 1`: apontar dados sobre a empresa "quem somos"
+- `Funcionalidade 2`: apresentação de nossos produtos "jogos"
+- `Funcionalidade 3`: habilatação para uso de nossos produtos
+- `Funcionalidade 4`: exigir um fedback de nossos produtos
+```
 
 ## Tecnologias Utilizadas na nossa empresa
 
