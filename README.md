@@ -1,4 +1,6 @@
-![NVW GAMES](https://user-images.githubusercontent.com/129353206/228724181-5ae2ccf0-c8cf-4256-8093-36a2eabcad74.jpg)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/129353206/228724181-5ae2ccf0-c8cf-4256-8093-36a2eabcad74.jpg" width="500px" />
+</div>
 
 # Plataforma NVW GAMES 🎮
 
